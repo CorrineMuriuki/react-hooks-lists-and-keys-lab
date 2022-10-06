@@ -6,7 +6,7 @@ function NavBar() {
   return <nav>
     <a href="#home">home</a>
     <a href="#about">about</a>
-    <a href="#about">projects</a>
+    <a href="#projects">projects</a>
     </nav>;
 }
 
